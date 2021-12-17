@@ -13,3 +13,5 @@ func fibonacci(upperBound: Int) -> [Int] {
     }
     return numbers
 }
+
+//Calculate fibonacci series between 750-1000.
